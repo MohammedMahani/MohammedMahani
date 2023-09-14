@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mohammed+Mahani+Web+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-✔ Mohammed from Palestine , passionate  in programming and filed .<br>✔ Student in GSG of Career Accelerator Program
+✔ Mohammed from Palestine , passionate  in programming and filed .<br>✔ <p>✔ Student in <a href="https://gazaskygeeks.com/" target="_blank">GSG</a> of <a href="https://gazaskygeeks.com/coders-career-accelerator-course/" target="_blank">Career Accelerator Program</a> </p>
 
 
 ## 🌐 Socials:
